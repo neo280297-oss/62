@@ -1,0 +1,203 @@
+body {
+    background-image:url(img/риодежанейра.jpg);
+}
+.apps {
+    display: flex;
+    position: relative;
+    width:100%;
+    height: 50px;
+    outline: none;
+    object-fit: contain;
+    gap:20px;
+    justify-content: center;
+    margin-top:50px
+}
+.apps img {
+    width: 30px;
+    height:30px;
+}
+.header_text {
+    font-size: 25px;
+    justify-self: center;
+}
+.h1 {
+    font-family: 'Times New Roman Bold';
+    text-align: center;
+    font-size: 100px;
+    margin-top: -30px;
+}
+.header_text_2 {
+    font-family: 'Times New Roman Bold';
+    text-align: center;
+    font-size: 15px;
+    margin-top: -80px;
+}
+.buttons {
+    justify-content: center;
+    display: flex;
+    gap: 25px;
+}
+.button {
+    background-color: rgb(230, 198, 91);
+    color:black;
+    font-family: 'Helvetica Bold';
+    border: 0 solid;
+    width: 370px;
+    height: 70px;
+    font-size: 25px;
+    text-align: left;
+}
+.button:hover {
+    transition: 1s;
+    background-color:rgb(187, 95, 156);
+    color:white;
+}
+.number01 {
+    color:gray;
+    margin-left: 70%;
+    font-size: 15px;
+}
+.number02 {
+    color:gray;
+    margin-left: 67%;
+    font-size: 15px;
+}
+.number03 {
+    color:gray;
+    margin-left: 59%;
+    font-size: 15px;
+}
+.number04 {
+    color:gray;
+    margin-left: 53%;
+    font-size: 15px;
+}
+.body_2 {
+    background-color: white;
+    margin-left: 171px;
+    margin-top: 48px;
+    width: 1555px;
+    height:530px;
+}
+.body_2_h1 {
+    position: relative;
+    top: 70px;
+    left: 1em;
+    font-size: 65px;
+    font-family:'Cambria', 'Cochin', Georgia, 'Times', 'Times New Roman', serif ;
+}
+.body_2_h1_2 {
+    position:relative;
+    display:flex;
+    top: -50px;
+    margin-left: 800px;
+    font-size: 65px;
+    font-family:'Cambria', 'Cochin', Georgia, 'Times', 'Times New Roman', serif ;
+}
+.hr {
+    width: 690px;
+    margin-left: 70px;
+    border-top: 2px dashed;
+    margin-top: -50px;
+}
+.hr_2 {
+    border-top: 2px dashed;
+    margin-right: 80px;
+    width: 670px;
+    margin-top: -12px;
+
+}
+.body_2_text {
+    padding:60px;
+    margin-top: -175px;
+    position: relative;
+    color: gray;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.body_2_text_2 {
+    color: gray;
+    position: relative;
+    font-size:30px ;
+    margin-left: 740px;
+    padding: 60px;
+    margin-top: -180px;
+}
+.body_2_h3 {
+    margin-left: 70px;
+    font-size:18px;
+}
+.body_2_text_3 {
+    color: gray;
+    font-size: 13px;
+    width: 680px;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+.body_2_buttons {
+    margin-left: 70px;
+}
+.body_2_button {
+    background-color: rgb(196, 190, 190);
+    width: 100px;
+    height:45px;
+    border: 0 solid;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.body_2_button_2 {
+    background-color: rgb(196, 190, 190);
+    width: 130px;
+    height:45px;
+    border: 0 solid;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.body_2_buttons button:hover {
+    transition: 1s;
+    color: white;
+    background-color: black;
+}
+.kreml {
+    position: relative;
+    width:180px;
+    height:220px;
+}
+.maldiv {
+    position: relative;
+    width:180px;
+    height:220px;
+}
+.paris {
+    position: relative;
+    width:180px;
+    height:220px;
+}
+.body_2_img {
+    position: relative;
+    margin-left: 800px;
+    top: -250px;
+    display: flex;
+    gap: 20px;
+}
+.body_2 img {
+    object-fit: cover;
+    position: relative;
+    border-radius: 10px;
+}
+.body_2_img img:hover {
+    transition: 1s;
+    transform: scale(1.1);
+}
+.image_container {
+    color: gray;
+    font-family: 'Cambria', 'Cochin', Georgia, 'Times', 'Times New Roman', serif ;
+}
+.image_container_2 {
+    color: gray;
+    font-family: 'Cambria', 'Cochin', Georgia, 'Times', 'Times New Roman', serif ;
+}
+.image_container_3 {
+    color: gray;
+    font-family: 'Cambria', 'Cochin', Georgia, 'Times', 'Times New Roman', serif ;
+}
